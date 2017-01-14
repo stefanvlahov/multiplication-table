@@ -5,8 +5,7 @@ import java.util.Scanner;
 public class Table {
 
     public static int calc(int operand1, int operand2) {
-        int result = operand1 * operand2;
-        return result;
+        return operand1 * operand2;
     }
 
     public static void generateTable() {
